@@ -16,6 +16,7 @@ def request(prefix):
     print(response)
     print(session.cookies.get('mysession'))
 
+    #if creds ok cookie returned, with this behaviour and with no password fail blocking we can obtain the password
     if session.cookies.get('mysession'):
         return True
     else:
