@@ -271,3 +271,6 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 </html>
 
 ```
+
+
+----> https://www.hackingarticles.in/file-system-access-on-webserver-using-sqlmap/
