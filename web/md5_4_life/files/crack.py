@@ -1,6 +1,3 @@
-#https://www.dotnetperls.com/ascii-table-python
-
-
 import requests
 import re
 import hashlib
